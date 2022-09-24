@@ -13,7 +13,7 @@ void Digite(int num1, int count1)
 {
     while (count1 <= num1)
     {
-        Console.Write((count1*count1*count1) + ", ");
+        Console.WriteLine($"|{num}  {count1*count1*count1, 4}|");
         count1 = count1 + 1; 
     }
 };
