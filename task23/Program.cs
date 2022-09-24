@@ -18,4 +18,3 @@ void Digite(int num1, int count1)
     }
 };
 Digite(num, count);
- //Console.WriteLine("0.5^4 = " + Math.Pow(x, stepen));
